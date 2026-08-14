@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sharjah Property Rentals</title>
+  <style>
+    body{margin:0;font-family:Arial;background:#f5f5f5;color:#222}
+    header{background:#123b5d;color:white;padding:25px;text-align:center}
+    header h1{margin:0}
+    .hero{padding:50px 20px;text-align:center;background:white}
+    .hero h2{font-size:32px}
+    .btn{display:inline-block;background:#25D366;color:white;padding:14px 25px;border-radius:8px;text-decoration:none}
+    .properties{padding:30px;max-width:1000px;margin:auto}
+    .card{background:white;margin:20px 0;padding:20px;border-radius:12px;box-shadow:0 2px 10px #ccc}
+    .card img{width:100%;max-height:400px;object-fit:cover;border-radius:10px}
+    .price{font-size:22px;font-weight:bold;color:#123b5d}
+    footer{background:#123b5d;color:white;text-align:center;padding:20px}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sharjah Property Rentals</h1>
+  <p>Villas & Rooms for Rent in Sharjah</p>
+</header>
+
+<section class="hero">
+  <h2>Find Your Perfect Home 🏠</h2>
+  <p>Quality villas and rooms available in Sharjah.</p>
+  <a class="btn" href="https://wa.me/971553402485">WhatsApp Us</a>
+</section>
+
+<section class="properties">
+  <h2>Available Properties</h2>
+
+  <div class="card">
+    <h2>6 Bedroom Villa</h2>
+    <p>Excellent villa • Completely separate</p>
+    <p class="price">AED 65,000 / Year</p>
+    <a class="btn" href="https://wa.me/971553402485">Contact on WhatsApp</a>
+  </div>
+
+  <div class="card">
+    <h2>Room for Rent</h2>
+    <p>Clean and comfortable room in Sharjah.</p>
+    <p class="price">Contact for Price</p>
+    <a class="btn" href="https://wa.me/971553402485">Contact on WhatsApp</a>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 Sharjah Property Rentals</p>
+</footer>
+
+</body>
+</html>
